@@ -1,2 +1,1 @@
-# my-custom-module
-Demo custom module
+# Demo custom module
